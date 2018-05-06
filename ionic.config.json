@@ -1,0 +1,8 @@
+{
+  "name": "joy2give",
+  "app_id": "07a92197",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
